@@ -1,6 +1,7 @@
 #ifndef Geo_h
 #define Geo_h
 #include <iostream>
+#include <windows.h>
 using namespace std;
 
 class Geometria
@@ -18,6 +19,7 @@ public:
 	void DibujarMedioTriangulo() const;
 	void DibujarTrianguloCompleto() const;
 	void DibujaCuadricula() const;
+	static void setColor(WORD c);
 };
 #endif
 
