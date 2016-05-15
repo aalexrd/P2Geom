@@ -1,5 +1,5 @@
 # P2Geom
-**Universdiad Nacional de Costa Rica**
+**Universidad Nacional de Costa Rica**
 
 **Programacion II**
 
